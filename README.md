@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Sravonmage
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Sravonmage/Sravonmage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+ Login to bKash application without verification or PIN code
+Money can be transferred to any bKash account in May
+Just call or come via SMS
